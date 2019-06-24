@@ -1,0 +1,7 @@
+{
+    "uuid": "touchless@thelvm.com",
+    "name": "Touchless",
+    "description": "Control your linux desktop with hand gestures!",
+    "url": "github",
+    "shell-version": ["3.30", "3.32"]
+}
